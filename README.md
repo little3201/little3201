@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=little3201.readme)
+
+![](http://antzuhl.cn:4000/get/@little3201.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=little3201&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
