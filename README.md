@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
 -->
+
+我是 布吉岛，一名软件工程师、技术博主。
+
+我的技术栈主要是Java、Golang和Vue。欢迎各位同行进行交流分享。
+
+> 我的个人技术分享都在我的个人博客: https://abeille.top
+
+ > 业余运营有自己的公众号：
