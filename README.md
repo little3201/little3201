@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 > 我的个人技术分享都在我的个人博客: https://abeille.top
 
  > 业余运营有自己的公众号：
-<img alt="Leafage Logo" width="40px" src="./leafage-standard.png">
+<img alt="Leafage Logo" width="400px" src="./leafage-standard.png">
