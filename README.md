@@ -15,13 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-我是 布吉岛，一名软件工程师、技术博主。
+# Tech stack
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=little3201" />
+</a>
 
-我的技术栈主要是Java、Golang和Vue。欢迎各位同行进行交流分享。
+# Projects
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=little3201&show_icons=true&line_height=27" alt="My github stats" />
+</a>  
 
-> 我的个人技术分享都在我的个人博客: <a href="https://www.leafage.top" target="_blank">Leafage</a>
-
-> 另外一直在维护一个后端运营平台：<a href="https://console.leafage.top" target="_blank">点击访问</a>
+个人博客: <a href="https://www.leafage.top" target="_blank">Leafage</a>
+和一个后端运营平台：<a href="https://console.leafage.top" target="_blank">点击访问</a>
 
 > 业余运营有自己的公众号：
 
