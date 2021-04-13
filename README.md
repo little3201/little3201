@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 > 业余运营有自己的公众号：
 
-<img alt="Leafage Logo" width="400px" src="./leafage-wechat.png">
+<img alt="Leafage Logo" src="./leafage-wechat.png">
