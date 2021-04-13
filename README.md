@@ -26,8 +26,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=little3201&show_icons=true&line_height=27" alt="My github stats" />
 </a>  
 
-个人博客: <a href="https://www.leafage.top" target="_blank">Leafage</a>
-和一个后端运营平台：<a href="https://console.leafage.top" target="_blank">点击访问</a>
+### 上线项目有： [个人博客](https://www.leafage.top) 和一个[后端运营平台](https://console.leafage.top)
 
 > 业余运营有自己的公众号：
 
