@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **little3201/little3201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
 -->
+### Hi there, I am [little3201](https://www.leafage.top) 👋
+
+Hi, I'm little3201, a passionate self-taught java developer from China.
+
+- 📫 How to reach me: little3201@163.com
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on [Leafage](https://github.com/little3201/leafage-pw)
+- 💬 Ask me about anything [here](https://github.com/little3201/little3201/issues)
 
 # Quick overview
 <span>
