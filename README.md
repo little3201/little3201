@@ -16,13 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # Quick overview
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=little3201" alt="my languages" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=little3201" alt="my languages" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=little3201&show_icons=true&line_height=27" alt="my stats" />
-</a>  
+<img src="https://github-readme-stats.vercel.app/api?username=little3201&show_icons=true&line_height=27" alt="my stats" />
 
 ### 上线项目有： [个人博客](https://www.leafage.top) 和一个[后端运营平台](https://console.leafage.top)
 
