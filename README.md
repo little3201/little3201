@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Tech stack
+# Quick overview
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=little3201" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=little3201" alt="my languages" />
 </a>
 
-# Projects
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=little3201&show_icons=true&line_height=27" alt="My github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=little3201&show_icons=true&line_height=27" alt="my stats" />
 </a>  
 
 ### 上线项目有： [个人博客](https://www.leafage.top) 和一个[后端运营平台](https://console.leafage.top)
