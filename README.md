@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
 -->
-### Hi there, I am [little3201](https://www.leafage.top) 👋
+### Hi there, My website [little3201](https://www.leafage.top) 👋
 
-Hi, I'm little3201, a passionate self-taught java developer from China.
+Hi, I'm liwenqiang, from China.
+
+主要开发语言java, 朝着全栈在发展，平时也搞运维，写前端，做了些开源项目。趁着年轻折腾吧... 
+
+The main development language is java, which is developing towards the full stack. I also do operation and maintenance, write front-end, and do some open source projects. Toss while you are young...
 
 - 📫 How to reach me: little3201@163.com
 - 🌱 I’m currently learning Java
