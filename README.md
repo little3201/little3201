@@ -32,7 +32,7 @@ The main development language is java, which is developing towards the full stac
 - [如何配置nginx实现http和https代理](https://www.leafage.top/posts/detail/20C25YW6T)
 - [Mybatis批量操作sql写法](https://www.leafage.top/posts/detail/20815YW6T)
 - [一步步带你实现redis分布式锁](https://www.leafage.top/posts/detail/20824ZB0N)
-<p><a href="https://www.leafage.top">➡️ More Blog Posts</a></p>
+<p><a href="https://www.leafage.top" target="_blank">➡️ More Blog Posts</a></p>
 
 # Quick overview
 <span>
