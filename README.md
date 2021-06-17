@@ -19,7 +19,7 @@ Hi, I'm liwenqiang, from China.
 
 主要开发语言java, 平时也搞其他的，做了些开源项目。趁着年轻折腾吧... 
 
-The main development language is java, which is developing towards the full stack. I also do operation and maintenance, write front-end, and do some open source projects. Toss while you are young...
+The main development language java, usually also engaged in other, do some open source projects. Take advantage of the youth to toss it...
 
 - 📫 How to reach me: little3201@163.com
 - 🌱 I’m currently learning Java
@@ -27,8 +27,8 @@ The main development language is java, which is developing towards the full stac
 - 💬 Ask me about anything [here](https://github.com/little3201/little3201/issues)
 
 # Latest Blog Posts
-- [spring security 学习和踩坑总结（入门）](https://www.leafage.top/posts/detail/208291JMJ)
-- [Leafage 诞生记（二、nuxt.js如何在组件和页面请求数据）](https://www.leafage.top/posts/detail/213489UI)
+- [Spring Security 密码验证动态加盐的验证处理](https://www.leafage.top/posts/detail/21697I2R)
+- [Spring RestTemplate模版用法](https://www.leafage.top/posts/detail/2166UU6X)
 - [如何配置nginx实现http和https代理](https://www.leafage.top/posts/detail/20C25YW6T)
 - [Mybatis批量操作sql写法](https://www.leafage.top/posts/detail/20815YW6T)
 - [一步步带你实现redis分布式锁](https://www.leafage.top/posts/detail/20824ZB0N)
