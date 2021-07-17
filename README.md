@@ -40,7 +40,7 @@ The main development language java, usually also engaged in other, do some open 
   <img src="https://github-readme-stats.vercel.app/api?username=little3201&show_icons=true&line_height=27" alt="my stats" />
 </span>
 
-### 上线项目有： [个人博客](https://www.leafage.top) 和一个[后端运营平台](https://console.leafage.top)
+### 上线项目有： [个人博客](https://www.leafage.top) 、[运营服务](https://console.leafage.top)
 
 > 业余运营有自己的公众号：
 
