@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
 -->
-### Hi there, My website [little3201](https://www.leafage.top) 👋
-
-Hi, I'm liwenqiang, from China.
+### Hi there, My website [Leafage](https://www.leafage.top) 👋
 
 主要开发语言java, 平时也搞其他的，做了些开源项目。趁着年轻折腾吧... 
 
