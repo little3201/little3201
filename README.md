@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ichiane
-- 🌱 I’m currently learning java、rust、vue3、react、swiftui
+- 🌱 I’m currently learning java、rust、vue3、react、swift ui
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ### Hi there👋
 
 - 📫 How to reach me: little3201@163.com
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on [Leafage](https://github.com/little3201/leafage-pw)
+- 🌱 I’m currently learning java, rust, javascript, typescript, swift ui
+- 👯 I’m coding some projects, like [manager system](https://github.com/little3201/leafage-ms), [business website](https://github.com/little3201/leafage-pw), apps(comming soon.)
 - 💬 Ask me about anything [here](https://github.com/little3201/leafage-pw/issues)
