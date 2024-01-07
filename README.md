@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: little3201@163.com
 - 🌱 I’m currently learning java, rust, javascript, typescript, swift ui
-- 👯 I’m coding some projects, like [manager system](https://github.com/little3201/leafage-ms), [business website](https://github.com/little3201/leafage-pw), apps(comming soon.)
+- 👯 I’m coding some projects, like [management system](https://github.com/little3201/leafage-ms), [web portals](https://github.com/little3201/leafage-pw)
 - 💬 Ask me about anything [here](https://github.com/little3201/leafage-pw/issues)
