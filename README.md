@@ -1,21 +1,17 @@
+# 你好，我是 [little3201] 👋
 
-<!--
-**little3201/little3201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=little3201)
 
-Here are some ideas to get you started:
+## 🔧 技能
+- **前端开发**: React, Vue, HTML5, CSS3, JQuery
+- **后端开发**: Node.js, Java
+- **数据库**: MongoDB, PostgreSQL, MySQL
+- **工具和平台**: Git, Docker, Cloudflare, Vercel
 
-- 🔭 I’m currently working on ichiane
-- 🌱 I’m currently learning java、rust、vue3、react、swift ui
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: little3201@163.com
-- 😄 Pronouns: he
-- ⚡ Fun fact: ...
--->
-### Hi there👋
+## 📈 GitHub 数据
+<!-- GitHub 统计 -->
+![你的用户名's GitHub stats](https://github-readme-stats.vercel.app/api?username=little3201&show_icons=true&theme=radical)
 
-- 📫 How to reach me: little3201@163.com
-- 🌱 I’m currently learning java, rust, javascript, typescript, swift ui
-- 👯 I’m coding some projects, like [management system](https://github.com/little3201/leafage-ms), [web portals](https://github.com/little3201/leafage-pw)
-- 💬 Ask me about anything [here](https://github.com/little3201/leafage-pw/issues)
+<!-- 最常用的语言 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little3201&layout=compact&theme=radical)
+
