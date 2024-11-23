@@ -10,8 +10,5 @@
 
 ## 📈 GitHub 数据
 <!-- GitHub 统计 -->
-![你的用户名's GitHub stats](https://github-readme-stats.vercel.app/api?username=little3201&show_icons=true&theme=radical)
-
-<!-- 最常用的语言 -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=little3201&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little3201&layout=compact&theme=radical)
-
